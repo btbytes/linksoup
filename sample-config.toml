@@ -1,0 +1,6 @@
+[app]
+db_path = "hello.db"
+secret_key = "sdlfjalksd"
+
+[users]
+me = "andwho"
